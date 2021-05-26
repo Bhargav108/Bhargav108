@@ -20,7 +20,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 - 💬 Ask me about anything, I am happy to help
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning Vue
-- 💬 Ask me about anything related to Javascript/Typescript Python or Angular/React/Express/Flask
+- 💬 Ask me about anything related to Javascript/Typescript  or React/Vue/Express
 - ⚡ Fun fact: I ❤️ 🐶s
 
 
