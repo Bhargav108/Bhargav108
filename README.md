@@ -1,14 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
-<a href="https://twitter.com/DJnanadev">
-  <img align="left" alt="Dalai Bhargav Jnanadev | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/dalai-bhargav-9b153860/">
-  <img align="left" alt="Bhargav's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-
 <br />
 
 Hi, I'm Dalai Bhargav, a passionate self-taught Full Stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
@@ -23,6 +14,18 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 - 💬 Ask me about anything related to Javascript/Typescript  or React/Vue/Express
 - ⚡ Fun fact: I ❤️ 🐶s
 
+<br/>
+
+### Connect with me:
+
+<a href="https://twitter.com/DJnanadev">
+  <img align="left" alt="Dalai Bhargav Jnanadev | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/dalai-bhargav-9b153860/">
+  <img align="left" alt="Bhargav's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<br />
 
 **Languages and Tools:**  
 
