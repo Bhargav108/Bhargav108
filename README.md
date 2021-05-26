@@ -1,6 +1,6 @@
 ### Hello Peeps!! I'm Bhargav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<br />
+<br/>
 
 ## About Me :bowtie: 
 
@@ -8,7 +8,7 @@ Hi, I'm a passionate self-taught Full Stack web developer from India. My passion
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<br />
+<br/>
   
 - 💬 Ask me about anything, I am happy to help
 - 🔭 I’m currently working on something cool 😉
@@ -27,9 +27,9 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
   <img align="left" alt="Bhargav's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br />
+<br/>
 
-###Languages and Tools:
+### Languages and Tools:
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
