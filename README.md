@@ -23,7 +23,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <a href="https://twitter.com/DJnanadev">
   <img align="left" alt="Dalai Bhargav Jnanadev | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/dalai-bhargav-9b153860/">
+<a href="https://www.linkedin.com/in/dalai-bhargav">
   <img align="left" alt="Bhargav's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
